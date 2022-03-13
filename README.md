@@ -1,8 +1,8 @@
 # NYCU_Machine_Learning_2021
 ## HW01
 * Regularized linear model regression
-  * LSE
-  * Newton's method
+ * LSE
+ * Newton's method
 
 ## HW02
 
