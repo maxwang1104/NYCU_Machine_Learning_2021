@@ -5,24 +5,24 @@
    * Newton's method
 
 * HW02
- * Naive Bayes Classifier
-   * Support discrete and continuous
- * Online Learning
-   * Use online learning to learn the beta distribution of the parameter p (chance to see 1) of the coin tossing trails in batch
+   * Naive Bayes Classifier
+     * Support discrete and continuous
+   * Online Learning
+     * Use online learning to learn the beta distribution of the parameter p (chance to see 1) of the coin tossing trails in batch
 * HW03
- * Sequential Estimator
- * Baysian Linear regression
+  * Sequential Estimator
+  * Baysian Linear regression
 * HW04
- * Logistic regression
- * EM algorithm
+  * Logistic regression
+  * EM algorithm
 * HW05
- * Gaussian Process
- * SVM on MNIST dataset
+  * Gaussian Process
+  * SVM on MNIST dataset
 * HW06
- * Kernel K-Means
- * Spectral Clustering
+  * Kernel K-Means
+  * Spectral Clustering
 * HW07
- * Kernel Eigenfaces/Fisherfaces
- * t-SNE
+  * Kernel Eigenfaces/Fisherfaces
+  * t-SNE
 
 
